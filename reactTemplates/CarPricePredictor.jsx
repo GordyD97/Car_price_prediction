@@ -5,7 +5,7 @@ import Header from "./Header";
 import Form from "./Form";
 // main page. 
 const CarPricePredictor = (
-
+// revise function bellow. 
   function loadCarModels(companyId, carModelId) {
     const company = document.getElementById(companyId);
     const carModel = document.getElementById(carModelId);
